@@ -1,25 +1,32 @@
 import logo from './logo.svg';
+import React from 'react';
+
 import './App.css';
+import Section from './components/sectionone';
+import Navigation from './components/nevigation';
+import About from './components/About';
+import Services from './components/Service';
 
-function App() {
+import Contact from './components/contact';
+import Skill from './components/Skill';
+import Resume from './components/Resume';
+import Footer from './components/footer';
+import { Routes, Route, NavLink } from 'react-router-dom';
+
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navigation />
+      <Section />
+      <About />
+      <Services />
+      <Skill />
+      {/* update the service section in the desktop port also */}
+      <Resume />
+      <Contact />
+      <Footer />
     </div>
-  );
+  )
 }
-
 export default App;
