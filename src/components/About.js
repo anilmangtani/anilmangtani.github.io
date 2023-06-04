@@ -20,10 +20,10 @@ const About = () => {
                 </div>
                 <div className="about-right-section">
                     <div className="about-content">
-                        <p>Currently I am doing Masters of Science and communication in IT (MscIT) from Dhirubhai Ambani Institute of Information and Communication Technology Gandhinagar, Gujarat. I have completed my Bachelor of Computer Applications (BCA) from Birla Institute of Technology - Mesra.
+                        <p>Hello! I am a Software Developer, and I am passionate about creating Software application that can help others and my teammates to achieve their needs and goals. I love to learn more and more about the new technologies of this new world.
                         </p>
                         <p>
-                            I am working as a freelancer since 2020 and Currently based in India. And I am passionate about creating new applications.
+                        I am a team player and I have done Internships with experience of the full software development lifecycle with a focus on Agile processes.
                         </p>
                     </div>
 

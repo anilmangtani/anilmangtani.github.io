@@ -13,10 +13,10 @@ const Section = () =>{
                         {/* <p>I am a Website developer, Desinger, Freelancer.</p> */}
                         <div className="i-title">
                             <div className="i-title-wrapper">
-                                <div className="i-title-item">Web Developer</div>
+                                <div className="i-title-item">Backend Developer</div>
+                                <div className="i-title-item">Frontend Developer</div>
                                 <div className="i-title-item">UI/UX Designer</div>
                                 <div className="i-title-item">Writer</div>
-                                <div className="i-title-item">Video Editor</div>
                                
                             </div>
                         </div>

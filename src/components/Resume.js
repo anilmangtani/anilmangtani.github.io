@@ -18,19 +18,45 @@ const Resume = () => {
                             </div>
                             <div className="exp-content">
                                 <div className="exp-place-heading">
-                                    <h1>Freelancing</h1>
+                                    <h1>actyv.ai </h1>
                                 </div>
                                 <div className="exp-place-content">
-                                    <p>I have been working as freelancer since 2021 in the field of web development and in content writing. </p>
+                                    <p><b>FullStack Software Developer Intern {"(Full Time)"}</b></p>
+                                    <p>Jan 2023 - Jun 2023</p>
+                                    <p>
+                                        <ul>
+                                            <li><b><span className="resume-info-heading">Project Development and Collaboration:</span></b><span className="resume-info"> Contributed to the development of the company’s product website using
+                                                the MERN stack, resulting in a seamless and user-friendly online platform.</span></li>
+                                            <li><b><span className="resume-info-heading">Backend Development and API Design:</span></b> <span className="resume-info">Developed robust backend APIs, improving data retrieval and enhancing
+                                                overall performance, resulting in a 30% decrease in response time.</span></li>
+                                            <li><b><span className="resume-info-heading">Bug Resolution:</span></b><span className="resume-info"> Actively participated in front-end tasks, identifying and resolving critical bugs, resulting in a 15%
+                                                increase in user satisfaction and a more polished user interface</span></li>
+                                        </ul>
+                                    </p>
                                 </div>
                                 
                                 <div className="exp-place-heading">
-                                    <h1>Nodejs Developer</h1>
+                                    <h1>Cuber Reality</h1>
                                 </div>
                                 <div className="exp-place-content">
-                                        <p>ITAIMS</p>
-                                        <p>May 2021 - May 2021 1 Month</p>
-                                        <p>Achieved 110% of the target given by the company in the web development.</p>    
+                                        <p><b>Software Developer Intern {"(Full-time)"}</b></p>
+                                        <p>May 2022 - July 2022</p>
+                                        <p>
+                                        <ul>
+                                            <li><b><span className="resume-info-heading">Mobile Application Development with Flutter:</span></b><span className="resume-info">
+                                                Led the end-to-end development of a mobile application using
+                                                Flutter, ensuring cross-platform compatibility and taking charge of application architecture and UI design.
+                                            </span></li>
+                                            <li><b><span className="resume-info-heading"> Front-End Development and UI/UX Design:</span></b> <span className="resume-info">
+                                                Achieved a 20% improvement in user retention by optimizing the UI
+                                                design and enhancing the overall visual appeal of the application
+                                            </span></li>
+                                            <li><b><span className="resume-info-heading">Back-End Integration and API Implementation:</span></b><span className="resume-info">
+                                                : Integrated the front-end with the back-end by implementing
+                                                APIs, facilitating smooth data communication and ensuring seamless functionality
+                                            </span></li>
+                                        </ul> 
+                                        </p>    
                                 </div>
                             </div>
                         </div>
@@ -43,27 +69,19 @@ const Resume = () => {
                                     <h1>Dhirubhai Ambani Institute of  Information and Communication Technology</h1>
                                 </div>
                                 <div className="exp-place-content">
-                                    <p>MscIT, Information Technology</p>
-                                    <p>2021-present</p>
-                                   
+                                    <p><b>MscIT, Information Technology</b></p>
+                                    <p>2021-2023</p>
+                                    <p>CPI: 8.06</p>
                                 </div>
                                 
                                 <div className="exp-place-heading">
-                                    <h1>Birla Institute of Technology Mesra,
-                                        Jaipur Campus</h1>
+                                    <h1><b>Birla Institute of Technology Mesra,
+                                        Jaipur Campus</b></h1>
                                 </div>
                                 <div className="exp-place-content">
                                         <p>BCA, Computer Science</p>
                                         <p>2018 - 2021</p>
-                                </div>
-
-                                <div className="exp-place-heading">
-                                    <h1>Bharatiya Vidya Bhavan Vidyashram,
-                                        Pratap Nagar Jaipur</h1>
-                                </div>
-                                <div className="exp-place-content">
-                                        <p>HSC (12th) - 2018</p>
-                                        <p>SSC (10th) - 2016</p>
+                                        <p>CPI: 8.10</p>
                                 </div>
                             </div>
                         </div>

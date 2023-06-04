@@ -42,11 +42,10 @@ const Services = () => {
                                 </div>
                             </div>
                             <div className="service-heading">
-                                <h1>Web Design</h1>
+                                <h1>Web/App Design</h1>
                             </div>
                             <div className="service-information">
-                                <p>I use different applications for web designing.
-                                    like draw.io.
+                                <p>I can design ui/ux for the websites or mobile applications.
                                 </p>
                             </div>
                         </div>
@@ -58,11 +57,10 @@ const Services = () => {
                                 
                             </div>
                             <div className="service-heading">
-                                <h1>App Design</h1>
+                                <h1>Api Development</h1>
                             </div>
                             <div className="service-information">
-                                <p>I use different applications for web designing.
-                                    like figma, draw.io.
+                                <p>I love to develop APIs using different technology like nodeJs and nestJs.
                                 </p>
                                 </div>
                             
@@ -74,11 +72,10 @@ const Services = () => {
                                 </div>
                             </div>
                             <div className="service-heading">
-                                <h1>Video Editing</h1>
+                                <h1>Frontend development</h1>
                             </div>
                             <div className="service-information">
-                                <p>I use different application for editing videos
-                                    like Adobe premiere pro for editing videos.
+                                <p>I love to develop front-end using reactJs or Dart.
                                 </p>
                             </div>
                         </div>
@@ -91,7 +88,7 @@ const Services = () => {
                         <div className="service-box">
 
                             <div className="service-upper-row">
-                                <p>15+</p>
+                                <p>10+</p>
                             </div>
                             <div className="service-lower-row">
                                 <h1>Projects</h1>
@@ -99,18 +96,10 @@ const Services = () => {
                         </div>
                         <div className="service-box">
                             <div className="service-upper-row">
-                                <p>2 Year+</p>
+                                <p>1 Year+</p>
                             </div>
                             <div className="service-lower-row">
                                 <h1>Experience</h1>
-                            </div>
-                        </div>
-                        <div className="service-box">
-                            <div className="service-upper-row">
-                                <p>12+</p>
-                            </div>
-                            <div className="service-lower-row">
-                                <h1>Happy Clients</h1>
                             </div>
                         </div>
                     </div>

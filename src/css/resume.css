@@ -5,7 +5,9 @@
     width: 100%;
     background-color: #183f3f;
 }
-
+.resume-exp{
+    overflow-y: scroll;
+}
 .resume-heading{
     position: relative;
     color: #e5dfdf;
@@ -87,7 +89,17 @@
     text-transform: capitalize;
     font-size: 0.90em
 }
-
+.exp-place-content ul{
+    display: flex;
+    flex-direction: column;
+}
+.resume-info{
+    font-size: 0.80em;
+    text-transform:initial;
+}
+.resume-info-heading{
+    font-size:0.80em ;
+}
 
 
 /* styling the right section  */
@@ -106,6 +118,8 @@
         gap: 10px;
         top: 5%;
         justify-content: space-between;
+        overflow-y: scroll;
+        
     }
 
     .resume-exp, .resume-edu{

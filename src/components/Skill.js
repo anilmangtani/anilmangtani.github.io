@@ -107,7 +107,7 @@ const Skill = () => {
                                     <img src={premimage} alt="" srcSet="" />
                                 </div>
                                 <div className="skill-item-box-name">    
-                                <h1>Adobe Premiere Pro</h1>
+                                <h1>NestJs</h1>
                                 </div>    
                             </div>
 
