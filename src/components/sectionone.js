@@ -26,7 +26,7 @@ const Section = () =>{
                     </div>
 
                     <div className="cv-button">
-                        <a href="/#contact" className='download-cv'>HIRE ME</a>
+                        <a href="/#contact" className='download-cv'>Hire Me</a>
                     </div>
 
                    
